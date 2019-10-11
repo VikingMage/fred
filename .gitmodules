@@ -1,0 +1,3 @@
+[submodule "SecureWikiServer"]
+	path = SecureWikiServer
+	url = https://github.com/OokTech/SecureWikiServer
